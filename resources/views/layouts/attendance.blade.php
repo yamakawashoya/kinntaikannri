@@ -51,8 +51,8 @@
 
         .title{
             display: flex;
-            margin-top:30px;
-            
+            margin-top:40px;
+            font-size: 140%;
         }
 
         .change2{
@@ -60,7 +60,7 @@
             display: flex;
             margin-top:30px;
             float: right;
-            margin-right: 38%;
+            margin-right: 43%;
         }
 
         .table{
